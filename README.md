@@ -1,20 +1,15 @@
 
-### Hi there👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongbinko%2Fhit-counter&count_bg=%233DC899&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seongbinko&show_icons=true&theme=radical)     
+###  🐱 github stats  
 
-<!--
-**seongbinko/seongbinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="main" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=peterica&count_private=true&show_icons=true&theme=radical"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterica&layout=compact"   
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongbinko&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-Here are some ideas to get you started:
+### 📕 Latest Blog Posts   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href ="https://seongbindb.tistory.com/182"> [백준 1816] 암호키 (자바) </a> <br><a href ="https://seongbindb.tistory.com/181"> DTO 의 사용범위 </a> <br><a href ="https://seongbindb.tistory.com/179"> [Java] Java enum 활용 </a> <br><a href ="https://seongbindb.tistory.com/178"> 일급 컬렉션 (First Class Collection) </a> <br><a href ="https://seongbindb.tistory.com/177"> 객체지향 생활체조 원칙  9가지 (from 소트웍스 엔솔러지) </a> <br><a href ="https://seongbindb.tistory.com/176"> 2021년 회고 - 비전공자 자바 백엔드 개발자 </a> <br><a href ="https://seongbindb.tistory.com/175"> [프로그래머스] 게임 맵 최단거리(level2) (자바) </a> <br><a href ="https://seongbindb.tistory.com/174"> [프로그래머스] N개의 최소공배수 (자바) </a> <br><a href ="https://seongbindb.tistory.com/173"> [프로그래머스] 큰 수 만들기 (level2) (자바) </a> <br><a href ="https://seongbindb.tistory.com/172"> [DB] 인덱스란? </a> <br>
